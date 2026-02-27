@@ -4,4 +4,4 @@
 -  Pronouns: I use any pronouns (ele/ela em português). If you're unsure though, using they/them is ok!
 -  Fun fact: I love the j-core scene! Especially t+pazolite. If you have any album/song recommendations, feel free to reach out!!
 
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=7044133" style='border:none;'></iframe>
